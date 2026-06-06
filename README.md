@@ -5,7 +5,9 @@ A professional-grade Printed Circuit Board (PCB) design for a mono Audio Amplifi
 The project covers the end-to-end hardware design lifecycle, including schematic capture, component footprint definition, PCB layout design with clearance constraints, and the generation of manufacturing files.
 
 ## 📋 Features & Specifications
-
+<div align="center">
+<img width="1319" height="1002" alt="image" src="https://github.com/user-attachments/assets/8ebad289-2f26-4b2a-997f-5746c209c6de" />
+</div>
 * **Core IC:** LM386 (DIP-8 package) for high-efficiency audio amplification.
 * **Power Supply:** Wide input range (5V - 15V DC).
 * **Connectivity:** 
