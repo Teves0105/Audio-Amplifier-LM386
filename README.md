@@ -4,7 +4,7 @@ A professional-grade Printed Circuit Board (PCB) design for a mono Audio Amplifi
 
 The project covers the end-to-end hardware design lifecycle, including schematic capture, component footprint definition, PCB layout design with clearance constraints, and the generation of manufacturing files.
 <div align="center">
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/8ebad289-2f26-4b2a-997f-5746c209c6de" />
+<img width="900" height="550" alt="image" src="https://github.com/user-attachments/assets/8ebad289-2f26-4b2a-997f-5746c209c6de" />
  </div>
 ## 📋 Features & Specifications
 
