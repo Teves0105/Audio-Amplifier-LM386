@@ -17,7 +17,33 @@ The project covers the end-to-end hardware design lifecycle, including schematic
   * Wire width: ≥ 1.0mm (designed for optimal current flow).
   * Compact form factor.
   * Labeled Top Overlay for team identification.
+## 🛠️ Bill of Materials (BOM)
 
+| Component | Specifications | Mounting |
+| :--- | :--- | :--- |
+| **IC** | LM386 (DIP8) | THT |
+| **Capacitors** | 2x 220uF, 1x 10uF | THT |
+| **Resistors** | 1kΩ, 10Ω | THT |
+| **TrimPot** | 10kΩ | THT |
+| **Audio Jack** | 3.5mm (4-pin) | SMT |
+| **Speaker** | 3W, 4Ω, 40mm | THT |
+
+## 🏭 Manufacturing
+
+The files located in the `Gerber_Files/` directory are fully compliant with industry standards. They can be zipped and sent to any PCB fabrication facility (such as JLCPCB, PCBWay, or local vendors) for physical production.
+
+## 💡 Notes
+
+* **Design Considerations:** The layout was designed with a minimum track width of 1mm to ensure robust power delivery and audio signal integrity.
+* **Board Shape:** Designed for compact sizing using Altium’s Board Planning Mode.
+* **Software:** Designed and validated using Altium Designer.
+
+## 👨‍💻 Author
+
+* **Nguyen Huy Long**
+* *Electrical Engineering Student at VinUniversity*
+* **Vu Hoang Lan**
+* *Electrical Engineering Student at VinUniversity*
 ## 📂 Project Structure
 
 ```text
@@ -33,4 +59,3 @@ The project covers the end-to-end hardware design lifecycle, including schematic
 │   ├── Audio_Amplifier.DRR      # Drill Report
 │   └── ...                      # Additional manufacturing layers
 └── README.md
-🛠️ Bill of Materials (BOM)ComponentSpecificationsMountingICLM386 (DIP8)THTCapacitors2x 220uF, 1x 10uFTHTResistors1kΩ, 10ΩTHTTrimPot10kΩTHTAudio Jack3.5mm (4-pin)SMTSpeaker3W, 4Ω, 40mmTHT🏭 ManufacturingThe files located in the Gerber_Files/ directory are fully compliant with industry standards. They can be zipped and sent to any PCB fabrication facility (such as JLCPCB, PCBWay, or local vendors) for physical production.💡 NotesDesign Considerations: The layout was designed with a minimum track width of 1mm to ensure robust power delivery and audio signal integrity.Board Shape: Designed for compact sizing using Altium’s Board Planning Mode.Software: Designed and validated using Altium Designer.👨‍💻 AuthorNguyễn Huy LongElectrical Engineering Student at VinUniversity
