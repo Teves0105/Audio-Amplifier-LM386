@@ -49,13 +49,25 @@ The files located in the `Gerber_Files/` directory are fully compliant with indu
 ```text
 .
 ├── Altium_Source/           # Original Altium Designer project files
+│   ├── Audio_Amplifier.PcbDoc   # PCB Layout document
 │   ├── Audio_Amplifier.PrjPcb   # Project file
-│   ├── Audio_Amplifier.SchDoc   # Schematic document
-│   └── Audio_Amplifier.PcbDoc   # PCB Layout document
-├── Gerber_Files/            # Manufacturing files
-│   ├── Audio_Amplifier.TXT      # NC Drill file
+│   └── Audio_Amplifier.SchDoc   # Schematic document
+├── Gerber_Files/            # Manufacturing files (Gerber)
+│   ├── Audio_Amplifier-macro.APR_LIB
+│   ├── Audio_Amplifier.EXTREP
 │   ├── Audio_Amplifier.GBL      # Gerber Bottom Layer
+│   ├── Audio_Amplifier.GBO      # Gerber Bottom Overlay
+│   ├── Audio_Amplifier.GBP      # Gerber Bottom Paste
+│   ├── Audio_Amplifier.GBS      # Gerber Bottom Solder
+│   ├── Audio_Amplifier.GM       # Mechanical Layer (Profile)
+│   ├── Audio_Amplifier.GM4      # Mechanical Layer (Board)
 │   ├── Audio_Amplifier.GTL      # Gerber Top Layer
+│   ├── Audio_Amplifier.GTO      # Gerber Top Overlay
+│   ├── Audio_Amplifier.GTP      # Gerber Top Paste
+│   ├── Audio_Amplifier.GTS      # Gerber Top Solder
+│   ├── Audio_Amplifier.REP      # Gerber Report
+│   └── Audio_Amplifier.apr      # Aperture file
+├── NC_Drill_Files/          # NC Drill data for manufacturing
 │   ├── Audio_Amplifier.DRR      # Drill Report
-│   └── ...                      # Additional manufacturing layers
+│   └── Audio_Amplifier.LDP      # Drill Layer Pair file
 └── README.md
