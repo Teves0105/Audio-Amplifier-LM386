@@ -1,0 +1,75 @@
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GBL' ----   Mon Nov 24 18:28:44 2025
+
+D20   --> D100
+D21   --> D101
+D23   --> D102
+D24   --> D103
+D26   --> D104
+D27   --> D105
+D32   --> D106
+D33   --> D107
+D34   --> D108
+D35   --> D109
+D36   --> D110
+D37   --> D111
+D38   --> D112
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GBS' ----   Mon Nov 24 18:28:44 2025
+
+D19   --> D113
+D20   --> D114
+D21   --> D115
+D22   --> D116
+D23   --> D117
+D24   --> D118
+D26   --> D119
+D27   --> D120
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GM' ----   Mon Nov 24 18:28:44 2025
+
+D39   --> D121
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GTL' ----   Mon Nov 24 18:28:44 2025
+
+D20   --> D122
+D21   --> D123
+D23   --> D124
+D24   --> D125
+D26   --> D126
+D27   --> D127
+D32   --> D128
+D33   --> D129
+D34   --> D130
+D35   --> D131
+D36   --> D132
+D37   --> D133
+D38   --> D134
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GTO' ----   Mon Nov 24 18:28:44 2025
+
+D10   --> D135
+D11   --> D136
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Altium\Audio_Amplifier - Copy\Project Outputs for Audio_Amplifier\Gerber\Audio_Amplifier.GTS' ----   Mon Nov 24 18:28:44 2025
+
+D19   --> D137
+D20   --> D138
+D21   --> D139
+D22   --> D140
+D23   --> D141
+D24   --> D142
+D26   --> D143
+D27   --> D144
+-----------------------------------------------------------------

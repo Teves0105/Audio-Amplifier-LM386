@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Audio_Amplifier.PcbDoc   11/27/2025  10:45:49 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Audio_Amplifier.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.714mm (28mil)                                           Round             3         PTH        7.18mm (0.28inch)
+T2      0.762mm (30mil)                                           Round             6         PTH        39.25mm (1.55inch)
+T3      0.8mm (31mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T4      0.813mm (32mil)                                           Round             8         PTH        22.86mm (0.90inch)
+T5      0.889mm (35mil)                                           Round             2         PTH        11.43mm (0.45inch)
+T6      1.041mm (41mil)                                           Round             2         PTH        28.70mm (1.13inch)
+T7      1.2mm (47mil)                                             Round             2         PTH        17.53mm (0.69inch)
+T8      0.9mm (35mil)                                             Round             2         NPTH       7.00mm (0.28inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+
+Total Processing Time (hh:mm:ss) : 00:00:00
