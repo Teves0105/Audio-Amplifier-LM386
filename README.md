@@ -3,11 +3,11 @@
 A professional-grade Printed Circuit Board (PCB) design for a mono Audio Amplifier based on the **LM386** operational amplifier. This project was developed as a laboratory assignment for **ELEC2010: Introduction to Circuits for Electrical Engineers** at **VinUniversity**.
 
 The project covers the end-to-end hardware design lifecycle, including schematic capture, component footprint definition, PCB layout design with clearance constraints, and the generation of manufacturing files.
-
-## 📋 Features & Specifications
 <div align="center">
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8ebad289-2f26-4b2a-997f-5746c209c6de" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/8ebad289-2f26-4b2a-997f-5746c209c6de" />
  </div>
+## 📋 Features & Specifications
+
 * **Core IC:** LM386 (DIP-8 package) for high-efficiency audio amplification.
 * **Power Supply:** Wide input range (5V - 15V DC).
 * **Connectivity:** 
@@ -20,7 +20,7 @@ The project covers the end-to-end hardware design lifecycle, including schematic
   * Compact form factor.
   * Labeled Top Overlay for team identification.
 <div align="center">
- <img width="806" height="576" alt="image" src="https://github.com/user-attachments/assets/db039ff5-9964-404c-b6af-17d7af4d4c3f" />
+ <img width="606" height="400" alt="image" src="https://github.com/user-attachments/assets/db039ff5-9964-404c-b6af-17d7af4d4c3f" />
 
 </div>
 
