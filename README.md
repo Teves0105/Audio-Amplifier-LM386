@@ -20,7 +20,7 @@ The project covers the end-to-end hardware design lifecycle, including schematic
   * Compact form factor.
   * Labeled Top Overlay for team identification.
 <div align="center">
- <img width="606" height="400" alt="image" src="https://github.com/user-attachments/assets/db039ff5-9964-404c-b6af-17d7af4d4c3f" />
+ <img width="706" height="500" alt="image" src="https://github.com/user-attachments/assets/db039ff5-9964-404c-b6af-17d7af4d4c3f" />
 
 </div>
 
