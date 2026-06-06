@@ -48,10 +48,9 @@ The files located in the `Gerber_Files/` directory are fully compliant with indu
 
 ```text
 .
-├── Altium_Source/           # Original Altium Designer project files
-│   ├── Audio_Amplifier.PcbDoc   # PCB Layout document
-│   ├── Audio_Amplifier.PrjPcb   # Project file
-│   └── Audio_Amplifier.SchDoc   # Schematic document
+├── Audio_Amplifier.PcbDoc   # PCB Layout document
+├── Audio_Amplifier.PrjPcb   # Project file
+└── Audio_Amplifier.SchDoc   # Schematic document
 ├── Gerber_Files/            # Manufacturing files (Gerber)
 │   ├── Audio_Amplifier-macro.APR_LIB
 │   ├── Audio_Amplifier.EXTREP
